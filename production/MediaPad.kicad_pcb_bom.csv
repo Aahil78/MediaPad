@@ -1,0 +1,10 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,PROD_ID,Voltage,Tolerance,Sim.Device,Sim.Pins
+"C1, C14",2,10uF,C_0402_1005Metric,,,,smt,Unpolarized capacitor,CAP-14848,6.3V,20%,,
+"C10, C11, C12, C13, C2, C3, C4, C5, C6, C7, C8, C9",12,0.1uF,C_0402_1005Metric,,,,smt,Unpolarized capacitor,CAP-25565,16V,10%,,
+"D10, D11, D12, D13, D2, D3, D4, D5, D6, D7, D8, D9",12,D,D_0402_1005Metric,,,,smt,Diode,,,,D,1=K 2=A
+"LED10, LED11, LED12, LED13, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9",12,SK6812,MX_SK6812MINI-E,,,,tht,RGB LED with integrated controller,,,,,
+R1,1,330ohm,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,"330Ω, 1/4W Resistor",,,,,
+SW1,1,RotaryEncoder_Switch_MP,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,,,,tht,"Rotary encoder, dual channel, incremental quadrate outputs, with switch and MP Pin",,,,,
+"SW10, SW11, SW12, SW13, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9",12,SW_Push,SW_Hotswap_Kailh_Choc_V1,,,,smt,"Push button switch, generic, two pins",,,,,
+U1,1,XIAO-nRF52840-DIP,XIAO-nRF52840-DIP,,,,smt,,,,,,
+U2,1,SN74AHCT125DR,SOIC127P600X175-14N,,,,smt,,,,,,
